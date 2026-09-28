@@ -1,0 +1,141 @@
+*{
+    background-color: purple;
+}
+.menu{
+    font-size: x-large;
+    margin: 0px 30px 40px;
+    display: inline-block;
+    height: 50px;
+}
+.food{
+    display: inline-block;
+    background-color: gold;
+    font-size: x-large;
+    margin: 10px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+.deal1{
+    background-color: gold;
+    float: right;
+    margin-right: 55px;
+    width: 400px;
+    height: 200px;
+}
+.deal1 p{
+    background-color: gold;
+    text-align: center;
+
+}
+.deal1 h1{
+    background-color: gold;
+    text-align: center;
+}
+.deal2{
+    background-color: gold;
+    float: right;
+    margin-right: -400px;
+    width: 400px;
+    height: 200px;
+    margin-top: 220px;
+}
+.deal2 p{
+    background-color: gold;
+    text-align: center;
+
+}
+.deal2 h1{
+    background-color: gold;
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-column: 1px;
+    grid-row: 1px;
+}
+.picture{
+    height: 500px;
+    margin-left: 55px;
+}
+.title{
+    font-size: xx-large;
+    background-color: gold;
+    margin-left: 100px;
+    margin-top: -150px;
+    width: 230px;
+    height: 50px;
+}
+.subtitle{
+    font-size: large;
+    background-color: gold;
+    margin-left: 100px;
+    margin-top: -90px;
+    width: 145px;
+    height: 30px;
+}
+.T{
+    float: left;
+    width: 20%;
+    margin: 20px;
+    height: 160px;
+    background-color: White;
+    font-size: x-large;
+    text-align: center;
+}
+
+.T p{
+    background-color: white;
+}
+.taco-pic{
+    height: 50px;
+    margin-top: 20px;
+}
+.beer-pic{
+    height: 50px;
+    margin-top: 20px;
+}
+.wine-pic{
+    height: 50px;
+    margin-top: 20px;
+}
+.music-pic{
+    height: 50px;
+    margin-top: 20px;
+}
+.final{
+    background-color: white;
+    margin-top: 200px;
+}
+.featured{
+    background-color: white;
+    margin-left: 550px;
+    margin-top: -200px;
+}
+.slim{
+    background-color: white;
+    margin-left: 550px;
+}
+.this{
+    background-color: white;
+    margin-left: 550px;
+}
+
+.learn{
+    background-color: gold;
+    margin-left: 550px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+.american{
+    background-color: white;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+}
+.instant{
+    text-align: center;
+    background-color: gold;
+}
